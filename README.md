@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HaranRS
+- 👋 Hi, I’m Hari Haran
 - 👀 I’m interested in learning and exploring new things.
 - 🌱 I’m currently learning new languages like JavaScript, Python, C++
 - 💞️ I’m looking to collaborate on new and innovative projects around the globe.
